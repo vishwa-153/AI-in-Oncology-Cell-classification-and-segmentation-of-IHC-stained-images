@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+cellpose
+numpy
+matplotlib
+tqdm
+scikit-learn
+opencv-python
+huggingface_hub
+Pillow
+streamlit
+fpdf
